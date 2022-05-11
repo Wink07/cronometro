@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+div {
+    text-align: center;
+    font-family: 'Roboto'
+}
+
+h1 {
+    color: white;
+}
+button {
+    height: 2.2em;
+    width: 5.5em;
+    border: none;
+    color: white;
+}
+
+.start-bnt {
+    background-color: green;
+}
+
+.pause-bnt {
+    background-color: grey;
+}
+
+.stop-bnt {
+    background-color: red;
+}
+
+body {
+    background-color: black
+}
+
+button:hover {
+    cursor: pointer;
+}
